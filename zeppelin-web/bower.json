@@ -25,6 +25,8 @@
     "angular-elastic-input": "~2.2.0",
     "angular-xeditable": "0.1.12",
     "highlightjs": "^9.4.0",
+    "highcharts": "latest",
+    "plotly":"https://cdn.plot.ly/plotly-latest.js",
     "lodash": "~3.9.3",
     "angular-filter": "~0.5.4",
     "ngtoast": "~2.0.0",
